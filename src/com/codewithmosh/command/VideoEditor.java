@@ -1,6 +1,7 @@
 package com.codewithmosh.command;
 
 public class VideoEditor {
+
     private float contrast = 0.5f;
     private String text;
 

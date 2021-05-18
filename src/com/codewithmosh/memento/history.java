@@ -10,6 +10,6 @@ public class history {
         momentos.push(momento);
     }
     public DocumentMomento pop(){
-        return momentos.pop()
+        return momentos.pop();
     }
 }
